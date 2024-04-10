@@ -1,22 +1,17 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+# NM_DHIVYA_FRIDAYBATCH_FSWD_PROJECT 
 
 
-Project implemented by: 
+Name:Dhivya S P
 
 
-Name:
+ID:au960221104051
 
 
-ID:
+College name:Arunachala College Of Engineering For Women
 
 
-College name:
+username: student
 
 
-Login credentials: 
-
-username: root
-
-
-Password: root
+Password: 12345
 
